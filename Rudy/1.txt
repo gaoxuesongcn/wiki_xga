@@ -1,0 +1,11 @@
+Blocklist pour Transmission :
+http://list.iblocklist.com/?list=bt_level1&fileformat=p2p&archiveformat=gz
+
+minimachines
+http://www.minimachines.net/
+
+Supervisor: A Process Control System
+http://supervisord.org/
+
+
+Chocolatey

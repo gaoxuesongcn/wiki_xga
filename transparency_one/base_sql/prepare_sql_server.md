@@ -1,5 +1,5 @@
 ```sql
-USE Transparency;
+USE TransparencyDW;
  
  CREATE USER booster_user FOR LOGIN booster_user;
  EXEC sp_addrolemember 'db_datareader', 'booster_user';
