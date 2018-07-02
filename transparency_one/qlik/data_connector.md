@@ -12,3 +12,9 @@ C:\Users\xuesong.gao\Desktop\ubuntu\qvd_export\
 
 
 
+For preview : 
+
+| *T1-BI* | 18.09.102 |
+| *T1-Graph* | 18.09.101 |
+| *T1-DW*    | 18.09.101 |
+
